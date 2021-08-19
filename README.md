@@ -9,3 +9,6 @@ Uma forma interativa de visualizar [curvas bezier](https://en.wikipedia.org/wiki
 
 Trabalho feito para o curso de Computação Gráfica do CEFET-RJ.
 
+# Demo
+![demo](media/interactive_bezier.gif)
+
